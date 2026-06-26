@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-TPBDMZR2');</script>
+<!-- End Google Tag Manager -->
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+<meta name="theme-color" content="#0A0B0D" />
+<title>Page Not Found | Area Wide Paving</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,300;9..144,400;9..144,600;9..144,700&family=Inter+Tight:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+:root{--ink:#0A0B0D;--ink-2:#131519;--steel:#6B7280;--bone:#F4F1EC;--bone-2:#EAE4D9;--amber:#F5A623;--amber-2:#FFB948;--serif:'Fraunces','Times New Roman',serif;--sans:'Inter Tight',system-ui,sans-serif;--mono:'JetBrains Mono',monospace}
+*{margin:0;padding:0;box-sizing:border-box}
+body{background:var(--ink);color:var(--bone);font-family:var(--sans);min-height:100dvh;display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center;padding:40px 24px;-webkit-font-smoothing:antialiased}
+.code{font-family:var(--serif);font-size:clamp(80px,20vw,160px);color:var(--amber);line-height:1;opacity:0.15;position:absolute;top:50%;left:50%;transform:translate(-50%,-60%);pointer-events:none;z-index:0}
+.content{position:relative;z-index:1;max-width:480px}
+.eyebrow{font-family:var(--mono);font-size:11px;letter-spacing:0.18em;text-transform:uppercase;color:var(--amber);margin-bottom:16px;display:flex;align-items:center;justify-content:center;gap:10px}
+.eyebrow .dot{width:8px;height:8px;background:var(--amber);border-radius:50%;animation:pulse 2s ease-in-out infinite}
+@keyframes pulse{0%,100%{opacity:1;transform:scale(1)}50%{opacity:0.4;transform:scale(0.6)}}
+h1{font-family:var(--serif);font-weight:400;font-size:clamp(28px,5vw,44px);line-height:1.1;margin-bottom:12px}
+h1 em{font-style:italic;color:var(--amber);font-weight:300}
+p{color:var(--bone-2);font-size:17px;line-height:1.6;margin-bottom:32px}
+.actions{display:flex;flex-wrap:wrap;gap:12px;justify-content:center}
+.btn{display:inline-flex;align-items:center;gap:10px;padding:16px 28px;font-family:var(--sans);font-weight:600;font-size:15px;text-decoration:none;transition:transform 0.15s,box-shadow 0.3s}
+.btn:active{transform:scale(0.97)}
+.btn-primary{background:linear-gradient(135deg,var(--amber),var(--amber-2));color:var(--ink);box-shadow:0 4px 24px rgba(245,166,35,0.3)}
+.btn-primary:hover{box-shadow:0 8px 40px rgba(245,166,35,0.45);transform:translateY(-1px)}
+.btn-outline{background:transparent;border:1px solid rgba(244,241,236,0.15);color:var(--bone)}
+.btn-outline:hover{border-color:rgba(245,166,35,0.4)}
+.btn svg{width:18px;height:18px}
+.footer-note{position:fixed;bottom:24px;left:0;right:0;text-align:center;font-family:var(--mono);font-size:10px;letter-spacing:0.12em;text-transform:uppercase;color:var(--steel)}
+</style>
+<script src="js/analytics.js" defer></script>
+</head>
+<body>
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TPBDMZR2"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<div class="code">404</div>
+<div class="content">
+  <div class="eyebrow"><span class="dot"></span> Page Not Found</div>
+  <h1>Wrong turn on the <em>highway</em></h1>
+  <p>This page doesn't exist — but your driveway project can. Head home or call Paul directly.</p>
+  <div class="actions">
+    <a href="/" class="btn btn-primary">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"/><polyline points="9 22 9 12 15 12 15 22"/></svg>
+      Back to Home
+    </a>
+    <a href="tel:9038856388" class="btn btn-outline">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72c.13.81.36 1.6.7 2.81a2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45c1.21.34 2 .57 2.81.7A2 2 0 0 1 22 16.92z"/></svg>
+      Call Paul
+    </a>
+  </div>
+</div>
+<div class="footer-note">Area Wide Paving · Sulphur Springs, TX · (903) 885-6388</div>
+</body>
+</html>
